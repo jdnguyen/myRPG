@@ -1,8 +1,7 @@
 myRPG
 =====
 
-A text base RPG game made by friends for friends.
-This game was created in 2006 when I first learned how to code. I was in high school then (Junior Year) and I decided to make a game without knowing any data structure. So prepare yourself for hundreds of lines of if statements.
+A text base RPG game made by friends for friends. This game was created in 2006 when I first learned how to code. I was in high school then (Junior Year) and I decided to make a game without knowing any data structure. So prepare yourself for hundreds of lines of if statements.
 =====
 
 To play this game, add this file to the source and change the target to "myRPG"
